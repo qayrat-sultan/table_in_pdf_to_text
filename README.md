@@ -13,6 +13,7 @@ check in cmd (or terminal):
 ``
 tesseract --version 
 ``
+
 ``
 pdfimages --version
 ``
