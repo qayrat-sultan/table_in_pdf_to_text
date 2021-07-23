@@ -10,6 +10,7 @@ pip install -r requirements.txt
 1)In Your OS install Tesseract OCR exe version >5.0.0 alpha link https://github.com/UB-Mannheim/tesseract/wiki
 2)Install Poppler in Your OS https://poppler.freedesktop.org/
 check in cmd (or terminal):
+
 ``
 tesseract --version 
 ``
