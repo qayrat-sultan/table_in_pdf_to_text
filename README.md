@@ -2,10 +2,11 @@
 Converting PDF to Text
 
 
-#Install
+## Install
+```
 pip install -r requirements.txt
 In Windows OS install Tesseract OCR exe version >5.0.0 alpha.
 link https://github.com/UB-Mannheim/tesseract/wiki
-
-#Use
+```
+### Use
 Paste input.pdf file in this directory
