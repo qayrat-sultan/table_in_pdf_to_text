@@ -12,3 +12,7 @@ link https://github.com/UB-Mannheim/tesseract/wiki
 
 #### Use
 Paste input.pdf file in this directory
+##### Run
+```
+python run.py
+```
