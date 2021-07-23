@@ -24,7 +24,7 @@ def convert_pdf_to_images(pdf_path):
     images = convert_from_path(pdf_path)
     images[0].save('tmp\\input.png')
     
-convert_pdf_to_images('spravka.pdf')
+convert_pdf_to_images('input.pdf')
 
 def rotate(
         image: np.ndarray, angle: float, background: Union[int, Tuple[int, int, int]]
