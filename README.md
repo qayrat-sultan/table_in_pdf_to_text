@@ -11,7 +11,7 @@ pip install -r requirements.txt
 2)Install Poppler in Your OS https://poppler.freedesktop.org/
 check in cmd (or terminal):
 ``
-tesseract --version
+tesseract --version <br>
 pdfimages --version
 ``
 #### Use
